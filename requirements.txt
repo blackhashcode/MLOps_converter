@@ -1,0 +1,6 @@
+click>=8.0.0
+nbformat>=5.1.0
+pathlib2>=2.3.0; python_version < '3.4'
+pyyaml>=5.4.0
+jinja2>=3.0.0
+black>=21.0.0  # for code formatting

@@ -1,0 +1,2 @@
+[console_scripts]
+ml-converter = cli.main:cli

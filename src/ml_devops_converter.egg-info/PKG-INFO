@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: ml_devops_converter
+Version: 0.1.0
+Summary: A DevOps tool for converting Jupyter notebooks to production-ready Python projects
+Author: Your Name
+Requires-Python: >=3.7
+Requires-Dist: click>=8.0.0
+Requires-Dist: nbformat>=5.1.0
+Requires-Dist: pyyaml>=5.4.0
+Requires-Dist: jinja2>=3.0.0
+Requires-Dist: black>=21.0.0
